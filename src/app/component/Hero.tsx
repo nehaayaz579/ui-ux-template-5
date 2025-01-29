@@ -20,7 +20,7 @@ const Hero = () => {
       {/* Editor's Pick Section */}
       <div className="text-center p-4 sm:p-6">
         <h3 className="font-bold text-lg sm:text-xl tracking-wide">
-          EDITOR’S PICK
+          EDITORS PICK
         </h3>
         <p className="text-sm sm:text-base text-gray-600 tracking-wide">
           Problems trying to resolve the conflict between
@@ -221,10 +221,10 @@ const Hero = () => {
                   <h1 className="title-font text-[19px] tracking-wide trafont-medium text-gray-800 mb-3">
                     Loudest a la Madison #1
                     <br />
-                    (L'integral)
+                    Lintegral
                   </h1>
                   <p className="leading-relaxed mb-3 text-gray-400 text-[14px] tracking-wider">
-                    We focus on ergonomics and meeting you where you work. It's
+                    We focus on ergonomics and meeting you where you work. Its
                     only a keystroke away.
                   </p>
                   <div className="flex gap-14 ">
@@ -279,10 +279,10 @@ const Hero = () => {
                   <h1 className="title-font text-[19px] tracking-wide trafont-medium text-gray-800 mb-3">
                     Loudest a la Madison #1
                     <br />
-                    (L'integral)
+                    Lintegral
                   </h1>
                   <p className="leading-relaxed mb-3 text-gray-400 text-[14px] tracking-wider">
-                    We focus on ergonomics and meeting you where you work. It's
+                    We focus on ergonomics and meeting you where you work. Its
                     only a keystroke away.
                   </p>
                   <div className="flex gap-14 ">
@@ -337,10 +337,10 @@ const Hero = () => {
                   <h1 className="title-font text-[19px] tracking-wide trafont-medium text-gray-800 mb-3">
                     Loudest a la Madison #1
                     <br />
-                    (L'integral)
+                    Lintegral
                   </h1>
                   <p className="leading-relaxed mb-3 text-gray-400 text-[14px] tracking-wider">
-                    We focus on ergonomics and meeting you where you work. It's
+                    We focus on ergonomics and meeting you where you work. Its
                     only a keystroke away.
                   </p>
                   <div className="flex gap-14 ">
